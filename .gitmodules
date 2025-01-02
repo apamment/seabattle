@@ -1,0 +1,3 @@
+[submodule "odoors"]
+	path = odoors
+	url = https://github.com/apamment/odoors
